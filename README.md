@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halit</h1>
-<h3 align="center">A passionate iOS from Turkey</h3>
+<h3 align="center">A passionate iOS developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Hopi](https://apps.apple.com/us/app/hopi-app-of-shopping/id983886691)
 
