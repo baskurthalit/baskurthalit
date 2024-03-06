@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halit</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
-- 🔭 I’m currently working on [willBeUpdated](https://github.com/baskurthalit/baskurthalit)
+- 🔭 I’m currently working on [WillBeUpdated](https://github.com/baskurthalit/baskurthalit)
 
 - 📝 I write articles on [www.bseyha.com](www.bseyha.com)
 
