@@ -1,17 +1,82 @@
-<h1 align="center">Hi 👋, I'm Halit</h1>
-<h3 align="center">A passionate iOS developer from Turkey</h3>
+<!-- Profile README for baskurthalit -->
 
-
-- 📝 I write articles on [www.bseyha.com](www.bseyha.com)
-
-- 📫 How to reach me **baskurthalit@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bseyha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bseyha" height="30" width="40" /></a>
-<a href="https://medium.com/@bseyha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bseyha" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Halit! 👋</h1>
+<p align="center">
+  <b>iOS Developer | Problem Solver | Technology Enthusiast</b><br>
+  <a href="https://www.linkedin.com/in/bseyha/">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+Passionate about technology, I thrive on working with innovative projects and tackling complex challenges. My focus is on building solutions that make people's lives easier and more efficient. As I continue to advance in the tech world, I'm dedicated to contributing to impactful projects and shaping the digital future.
+
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-02569B?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Appsflyer-0080FF?style=for-the-badge&logo=appsflyer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CoreData-4B7BEC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PDFKit-FF2D20?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### SwipeClear – Clean & Organize Your Camera Roll
+[<img src="https://github.com/user-attachments/assets/8cea1b17-5a1d-432f-b64a-c8cca1067891" height="300" width="700" alt="app store link"/>](https://apps.apple.com/us/app/clean-camera-roll-swipeclear/id6737853021)
+<p>
+</p>
+
+- Developed and maintained an iOS/iPadOS app for cleaning and organizing large camera rolls.
+- Led design, marketing, and user acquisition (visuals, promo assets).
+- Integrated AppsFlyer, Facebook SDK, Firebase Analytics for attribution and growth.
+- <b>App Store:</b> [SwipeClear](https://apps.apple.com/us/app/clean-camera-roll-swipeclear/id6737853021)
+
+---
+
+### Passport AI – Passport/ID Photo Generator
+[<img src="https://github.com/user-attachments/assets/31dfc216-b2b8-4e11-990b-56016a2ce0a7" height="300" width="700" alt="web link"/>](https://passportai.bseyha.com)
+<p>
+</p>
+
+- Built an iOS app to generate passport, ID, and visa photos using AI (CoreImage, Vision, CoreGraphics, PDFKit, AVFoundation).
+- Implemented an AI assistant to guide users and ensure compliance with standards.
+- <b>Website:</b> [passportai.bseyha.com](https://passportai.bseyha.com)
+
+---
+
+### asyncImage – Open Source Image Caching Library
+[GitHub Repo](https://github.com/baskurthalit/asyncImage)
+- Platform-agnostic image caching library for iOS, iPadOS, and macOS.
+- Seamlessly integrates with SwiftUI and UIKit; uses Core Data and background processing for smooth performance.
+
+---
+
+## 🎓 Education
+
+**İstanbul Medeniyet University**  
+BSc, Electrical and Electronic Engineering  
+2018 – 2022 | Final Grade: 3.35/4  
+[medeniyet.edu.tr](https://medeniyet.edu.tr)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: [bseyha](https://www.linkedin.com/in/bseyha/)
+
+---
+
+<!--
+README generated with ❤️ by Copilot.
+-->
