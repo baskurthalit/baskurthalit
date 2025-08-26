@@ -30,31 +30,6 @@ Passionate about technology, I thrive on working with innovative projects and ta
 
 ---
 
-## 🌟 Featured Projects
-
-### SwipeClear – Clean & Organize Your Camera Roll
-[<img src="https://github.com/user-attachments/assets/8cea1b17-5a1d-432f-b64a-c8cca1067891" height="300" width="700" alt="app store link"/>](https://apps.apple.com/us/app/clean-camera-roll-swipeclear/id6737853021)
-<p>
-</p>
-
-- Developed and maintained an iOS/iPadOS app for cleaning and organizing large camera rolls.
-- Led design, marketing, and user acquisition (visuals, promo assets).
-- Integrated AppsFlyer, Facebook SDK, Firebase Analytics for attribution and growth.
-- <b>App Store:</b> [SwipeClear](https://apps.apple.com/us/app/clean-camera-roll-swipeclear/id6737853021)
-
----
-
-### Passport AI – Passport/ID Photo Generator
-[<img src="https://github.com/user-attachments/assets/31dfc216-b2b8-4e11-990b-56016a2ce0a7" height="300" width="700" alt="web link"/>](https://passportai.bseyha.com)
-<p>
-</p>
-
-- Built an iOS app to generate passport, ID, and visa photos using AI (CoreImage, Vision, CoreGraphics, PDFKit, AVFoundation).
-- Implemented an AI assistant to guide users and ensure compliance with standards.
-- <b>Website:</b> [passportai.bseyha.com](https://passportai.bseyha.com)
-
----
-
 ### asyncImage – Open Source Image Caching Library
 [GitHub Repo](https://github.com/baskurthalit/asyncImage)
 - Platform-agnostic image caching library for iOS, iPadOS, and macOS.
